@@ -24,8 +24,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "CinnamonBuns";
-const char* password = "hondas2000";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PSW";
 const char* mqtt_server = "192.168.1.16";
 
 #define mqtt_user "mqtt-user"
